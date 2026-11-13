@@ -1,0 +1,90 @@
+{
+ "shrec": {
+  "陶瓷器（SHREC 2021 替代集）": {
+   "n_meshes": 296,
+   "faces_mean": 433476,
+   "faces_median": 130908,
+   "faces_p95": 2027196,
+   "verts_mean": 301497,
+   "verts_median": 82429,
+   "bbox_mean": 240.7656,
+   "watertight_ratio": 0.01,
+   "declared": 298,
+   "missing": 0
+  }
+ },
+ "ch3d": {
+  "石窟造像": {
+   "n_meshes": 63,
+   "faces_mean": 569984,
+   "faces_median": 349109,
+   "faces_p95": 1654574,
+   "verts_mean": 397115,
+   "verts_median": 296549,
+   "bbox_mean": 118.9982,
+   "watertight_ratio": 0.0,
+   "declared": 65,
+   "missing": 0
+  },
+  "古建筑构件": {
+   "n_meshes": 72,
+   "faces_mean": 217293,
+   "faces_median": 45997,
+   "faces_p95": 992343,
+   "verts_mean": 147994,
+   "verts_median": 34645,
+   "bbox_mean": 912.6304,
+   "watertight_ratio": 0.0,
+   "declared": 72,
+   "missing": 0
+  },
+  "青铜器": {
+   "n_meshes": 58,
+   "faces_mean": 291031,
+   "faces_median": 19187,
+   "faces_p95": 802570,
+   "verts_mean": 257609,
+   "verts_median": 12378,
+   "bbox_mean": 120.7287,
+   "watertight_ratio": 0.017,
+   "declared": 58,
+   "missing": 0
+  },
+  "陶瓷器": {
+   "n_meshes": 47,
+   "faces_mean": 72705,
+   "faces_median": 9850,
+   "faces_p95": 437178,
+   "verts_mean": 65790,
+   "verts_median": 10139,
+   "bbox_mean": 27.5795,
+   "watertight_ratio": 0.043,
+   "declared": 47,
+   "missing": 0
+  },
+  "玉器": {
+   "n_meshes": 23,
+   "faces_mean": 115565,
+   "faces_median": 7096,
+   "faces_p95": 515833,
+   "verts_mean": 67245,
+   "verts_median": 6871,
+   "bbox_mean": 9314.0877,
+   "watertight_ratio": 0.043,
+   "declared": 23,
+   "missing": 0
+  },
+  "壁画": {
+   "n_meshes": 20,
+   "faces_mean": 138725,
+   "faces_median": 10415,
+   "faces_p95": 764646,
+   "verts_mean": 90311,
+   "verts_median": 15872,
+   "bbox_mean": 309.3219,
+   "watertight_ratio": 0.0,
+   "declared": 22,
+   "missing": 0
+  }
+ }
+}

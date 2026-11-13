@@ -1,0 +1,1175 @@
+{
+  "dataset": "CH-Single3D",
+  "version": "v2",
+  "total": 287,
+  "target_distribution": {
+    "石窟造像": 65,
+    "古建筑构件": 72,
+    "青铜器": 58,
+    "陶瓷器": 47,
+    "玉器": 23,
+    "壁画": 22
+  },
+  "categories": {
+    "石窟造像": [
+      {
+        "uid": "0c90ba77c3684886b859329b1ca2e6d5",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-028\\0c90ba77c3684886b859329b1ca2e6d5.glb"
+      },
+      {
+        "uid": "af4a61846cda41a08186012cdba38a10",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-024\\af4a61846cda41a08186012cdba38a10.glb"
+      },
+      {
+        "uid": "2b50585589aa4ef1a9047d6d0a79f1e8",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-005\\2b50585589aa4ef1a9047d6d0a79f1e8.glb"
+      },
+      {
+        "uid": "2fa090fa88214bf48a59f293dba0f059",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-094\\2fa090fa88214bf48a59f293dba0f059.glb"
+      },
+      {
+        "uid": "383e1febaf6c41889a16e8fc06f0bec0",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-113\\383e1febaf6c41889a16e8fc06f0bec0.glb"
+      },
+      {
+        "uid": "6323ca055f0a47aab8554c67c2b7d39a",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-066\\6323ca055f0a47aab8554c67c2b7d39a.glb"
+      },
+      {
+        "uid": "f633d9fe05f54f1a8dbe05de0481dfea",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-057\\f633d9fe05f54f1a8dbe05de0481dfea.glb"
+      },
+      {
+        "uid": "e7e4deadbeaf40fb80b6ec39fc3b60ad",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-029\\e7e4deadbeaf40fb80b6ec39fc3b60ad.glb"
+      },
+      {
+        "uid": "a76c8a6132cf4747bfc50dc8cdfedbba",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-034\\a76c8a6132cf4747bfc50dc8cdfedbba.glb"
+      },
+      {
+        "uid": "fac80ddedbe24f289527c8e4f759d003",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-020\\fac80ddedbe24f289527c8e4f759d003.glb"
+      },
+      {
+        "uid": "c445129d0b9d402d983ad648e3840214",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-051\\c445129d0b9d402d983ad648e3840214.glb"
+      },
+      {
+        "uid": "bbd60c6a76754d668c98f08c9ddf6bb9",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-113\\bbd60c6a76754d668c98f08c9ddf6bb9.glb"
+      },
+      {
+        "uid": "fb51c6047003409b9c462b63bd992898",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-154\\fb51c6047003409b9c462b63bd992898.glb"
+      },
+      {
+        "uid": "906a66f6f7b747cfa8586ce68fa5efed",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-018\\906a66f6f7b747cfa8586ce68fa5efed.glb"
+      },
+      {
+        "uid": "fe230ad740ee4907bf2dbc66099096eb",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-153\\fe230ad740ee4907bf2dbc66099096eb.glb"
+      },
+      {
+        "uid": "53d406f487fe401ca82566ce5babba38",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-096\\53d406f487fe401ca82566ce5babba38.glb"
+      },
+      {
+        "uid": "512c8db0f8c84793bb3f3e22049b303e",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-006\\512c8db0f8c84793bb3f3e22049b303e.glb"
+      },
+      {
+        "uid": "483ec966a2c4420ead73aeb824bbfe2b",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-006\\483ec966a2c4420ead73aeb824bbfe2b.glb"
+      },
+      {
+        "uid": "54fcdbf538ab4891ab696e65fb26b212",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-018\\54fcdbf538ab4891ab696e65fb26b212.glb"
+      },
+      {
+        "uid": "35a74082b0e34ae1911168becf530569",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-056\\35a74082b0e34ae1911168becf530569.glb"
+      },
+      {
+        "uid": "1e94748eb7994b95ae63051e80caaece",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-060\\1e94748eb7994b95ae63051e80caaece.glb"
+      },
+      {
+        "uid": "71543a73fc3e4ee69613af48e83876e3",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-077\\71543a73fc3e4ee69613af48e83876e3.glb"
+      },
+      {
+        "uid": "51310721fa604c3d9bb273369e16d052",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-074\\51310721fa604c3d9bb273369e16d052.glb"
+      },
+      {
+        "uid": "2f44599345c8479591b7a6e2a1d72299",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-147\\2f44599345c8479591b7a6e2a1d72299.glb"
+      },
+      {
+        "uid": "096e12068bac47bf8b39797ee0738494",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-037\\096e12068bac47bf8b39797ee0738494.glb"
+      },
+      {
+        "uid": "6594a148ce0b49e3a4186350400d3513",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-044\\6594a148ce0b49e3a4186350400d3513.glb"
+      },
+      {
+        "uid": "223339de9de34ef0bda79697060c3da0",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-057\\223339de9de34ef0bda79697060c3da0.glb"
+      },
+      {
+        "uid": "e6a846a1ab9149d3a0614c7b82bcc8eb",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-004\\e6a846a1ab9149d3a0614c7b82bcc8eb.glb"
+      },
+      {
+        "uid": "538ae13a999845fa9206c6e884747df5",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-069\\538ae13a999845fa9206c6e884747df5.glb"
+      },
+      {
+        "uid": "6db16794a695461685033677fecf9639",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-058\\6db16794a695461685033677fecf9639.glb"
+      },
+      {
+        "uid": "71edd9efc26548758924ec455ac4a197",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-103\\71edd9efc26548758924ec455ac4a197.glb"
+      },
+      {
+        "uid": "65ed60e8d72645ce83017d848611be32",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-057\\65ed60e8d72645ce83017d848611be32.glb"
+      },
+      {
+        "uid": "ab2306abb0ba4b7b8f183d3d5f6f7699",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-060\\ab2306abb0ba4b7b8f183d3d5f6f7699.glb"
+      },
+      {
+        "uid": "bac9ee64eb454a66a637ae0c20f56364",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-124\\bac9ee64eb454a66a637ae0c20f56364.glb"
+      },
+      {
+        "uid": "c38f02c4944c4a5ba11ba51f66be9572",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-148\\c38f02c4944c4a5ba11ba51f66be9572.glb"
+      },
+      {
+        "uid": "d07e885e8c4e42e2b7b9ab78f22fd881",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-003\\d07e885e8c4e42e2b7b9ab78f22fd881.glb"
+      },
+      {
+        "uid": "daef3cea99104482b57be93373f2227c",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-045\\daef3cea99104482b57be93373f2227c.glb"
+      },
+      {
+        "uid": "e98a9498fc6e4b5baede7d5b2de99104",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-036\\e98a9498fc6e4b5baede7d5b2de99104.glb"
+      },
+      {
+        "uid": "e6df69464c6b44f0bc8063b156998cfb",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-005\\e6df69464c6b44f0bc8063b156998cfb.glb"
+      },
+      {
+        "uid": "26444bf184ad4fe0bc3591edbac0420d",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-046\\26444bf184ad4fe0bc3591edbac0420d.glb"
+      },
+      {
+        "uid": "ee0229f75b72438c9a858afe4f47ec8b",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-015\\ee0229f75b72438c9a858afe4f47ec8b.glb"
+      },
+      {
+        "uid": "7cb4d3334b2646df933df23c00a87c39",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-159\\7cb4d3334b2646df933df23c00a87c39.glb"
+      },
+      {
+        "uid": "2ca093359e3e496c8dc8515b7324d990",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-033\\2ca093359e3e496c8dc8515b7324d990.glb"
+      },
+      {
+        "uid": "f9c0755c8c9448f3a643f0e452c6a996",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-112\\f9c0755c8c9448f3a643f0e452c6a996.glb"
+      },
+      {
+        "uid": "fa45f368c7de498fbda39ddacf7b7d93",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-129\\fa45f368c7de498fbda39ddacf7b7d93.glb"
+      },
+      {
+        "uid": "81a6758d93024a2d9fd31f804a4b395c",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-042\\81a6758d93024a2d9fd31f804a4b395c.glb"
+      },
+      {
+        "uid": "f3010f753e1b4a4eae1295a7fa55ed30",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-148\\f3010f753e1b4a4eae1295a7fa55ed30.glb"
+      },
+      {
+        "uid": "580615867c9545fbbba3176bf14169c9",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-067\\580615867c9545fbbba3176bf14169c9.glb"
+      },
+      {
+        "uid": "44634c3e49dd4e0392818c3ce85a2b20",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-019\\44634c3e49dd4e0392818c3ce85a2b20.glb"
+      },
+      {
+        "uid": "1dc0fe17c77e40a9ac5a0c52462ecee5",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-009\\1dc0fe17c77e40a9ac5a0c52462ecee5.glb"
+      },
+      {
+        "uid": "678269e0220943e08404d555ffbf3873",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-018\\678269e0220943e08404d555ffbf3873.glb"
+      },
+      {
+        "uid": "d4f4699d39c24c8fbb1ff841b49f87f1",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-152\\d4f4699d39c24c8fbb1ff841b49f87f1.glb"
+      },
+      {
+        "uid": "b7552a5286ae4043a2e2671be91e6313",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-065\\b7552a5286ae4043a2e2671be91e6313.glb"
+      },
+      {
+        "uid": "e6b621b4ab234f38b17527211b6911c6",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-007\\e6b621b4ab234f38b17527211b6911c6.glb"
+      },
+      {
+        "uid": "9c91238e7d1748cba41f4d28777c7c3d",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-074\\9c91238e7d1748cba41f4d28777c7c3d.glb"
+      },
+      {
+        "uid": "8addefd5e4b44a22b0a4b696bf3c5ad1",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-018\\8addefd5e4b44a22b0a4b696bf3c5ad1.glb"
+      },
+      {
+        "uid": "c3db5ac6f0e44296aad05df57cd02af3",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-026\\c3db5ac6f0e44296aad05df57cd02af3.glb"
+      },
+      {
+        "uid": "d2840479d3764edaaec419baa528b686",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-049\\d2840479d3764edaaec419baa528b686.glb"
+      },
+      {
+        "uid": "30c0a8be2b1643f9bc707875eac48601",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-016\\30c0a8be2b1643f9bc707875eac48601.glb"
+      },
+      {
+        "uid": "7b97137d2ce3441cacfb76ec2fecfb78",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-066\\7b97137d2ce3441cacfb76ec2fecfb78.glb"
+      },
+      {
+        "uid": "e2c68551a5ba4dfc9226ab8d6cb15398",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-003\\e2c68551a5ba4dfc9226ab8d6cb15398.glb"
+      },
+      {
+        "uid": "60414585348f46d8ad930dafeaa5e4e0",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-097\\60414585348f46d8ad930dafeaa5e4e0.glb"
+      },
+      {
+        "uid": "29d864449f8040cb9fcac874da48da0e",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-019\\29d864449f8040cb9fcac874da48da0e.glb"
+      },
+      {
+        "uid": "ed49e5aca8a6445dbbe3ae88bad8e5f7",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-157\\ed49e5aca8a6445dbbe3ae88bad8e5f7.glb"
+      },
+      {
+        "uid": "e94723cdb9bf4b6fb8a2887ac2907ba0",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-149\\e94723cdb9bf4b6fb8a2887ac2907ba0.glb"
+      }
+    ],
+    "古建筑构件": [
+      {
+        "uid": "c33bb1328788413b85b164875747d9a2",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-072\\c33bb1328788413b85b164875747d9a2.glb"
+      },
+      {
+        "uid": "40fda2162d514873b6a2224da3d2de81",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-027\\40fda2162d514873b6a2224da3d2de81.glb"
+      },
+      {
+        "uid": "8f286fdb682546678849c25803656b97",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-013\\8f286fdb682546678849c25803656b97.glb"
+      },
+      {
+        "uid": "0d8279a3181b46428923989ec6a63bad",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-000\\0d8279a3181b46428923989ec6a63bad.glb"
+      },
+      {
+        "uid": "c2786e2c18494cfc82ff4236074631e4",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-156\\c2786e2c18494cfc82ff4236074631e4.glb"
+      },
+      {
+        "uid": "af12c8a1150a4e00add098e3e5f8d6ea",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-033\\af12c8a1150a4e00add098e3e5f8d6ea.glb"
+      },
+      {
+        "uid": "8ca79d5982eb4ed7b67a84df1e38a84b",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-045\\8ca79d5982eb4ed7b67a84df1e38a84b.glb"
+      },
+      {
+        "uid": "47b3fd592b1a4d0aa4e248dfcc361db8",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-038\\47b3fd592b1a4d0aa4e248dfcc361db8.glb"
+      },
+      {
+        "uid": "d570e51c348a41778f8f6d8ca88f2791",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-137\\d570e51c348a41778f8f6d8ca88f2791.glb"
+      },
+      {
+        "uid": "9bd041f645834686aa62d9764346fd85",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-051\\9bd041f645834686aa62d9764346fd85.glb"
+      },
+      {
+        "uid": "512a7e0c3c714e1ea1a5c83f90f53361",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-090\\512a7e0c3c714e1ea1a5c83f90f53361.glb"
+      },
+      {
+        "uid": "b696addbd32746e6803f38cd605e8ea3",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-012\\b696addbd32746e6803f38cd605e8ea3.glb"
+      },
+      {
+        "uid": "3cd8d3fe52f942709d77ab6151b914b1",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-080\\3cd8d3fe52f942709d77ab6151b914b1.glb"
+      },
+      {
+        "uid": "4acc9d61b5794aa991b29759c5b0c798",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-120\\4acc9d61b5794aa991b29759c5b0c798.glb"
+      },
+      {
+        "uid": "b1f4ebda2c3d4e75b1619400dd409c12",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-010\\b1f4ebda2c3d4e75b1619400dd409c12.glb"
+      },
+      {
+        "uid": "7f190e7829e544bf94a3c26014122a3a",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-088\\7f190e7829e544bf94a3c26014122a3a.glb"
+      },
+      {
+        "uid": "9176cc47609642b7b47950e26ff2787f",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-124\\9176cc47609642b7b47950e26ff2787f.glb"
+      },
+      {
+        "uid": "70562b21474f4d7abf737a32dccab46c",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-027\\70562b21474f4d7abf737a32dccab46c.glb"
+      },
+      {
+        "uid": "f76d0698a39548088d5192174ed3ac4e",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-056\\f76d0698a39548088d5192174ed3ac4e.glb"
+      },
+      {
+        "uid": "1051dd9a3b154006a944a47a9b510dcd",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-159\\1051dd9a3b154006a944a47a9b510dcd.glb"
+      },
+      {
+        "uid": "326aabd34bd24e15acf7a113d8089777",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-099\\326aabd34bd24e15acf7a113d8089777.glb"
+      },
+      {
+        "uid": "2852ac8cf5a04333906a76f163fc0a43",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-133\\2852ac8cf5a04333906a76f163fc0a43.glb"
+      },
+      {
+        "uid": "dedf9003b63a4d38b9ad1934225c3709",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-153\\dedf9003b63a4d38b9ad1934225c3709.glb"
+      },
+      {
+        "uid": "234dc44c8f594d4fa0dfb74ab1c23afc",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-061\\234dc44c8f594d4fa0dfb74ab1c23afc.glb"
+      },
+      {
+        "uid": "c0677ca12fa149c180df495a12eae0df",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-131\\c0677ca12fa149c180df495a12eae0df.glb"
+      },
+      {
+        "uid": "73ca4d739ac74b558d837e13d2fe7410",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-104\\73ca4d739ac74b558d837e13d2fe7410.glb"
+      },
+      {
+        "uid": "e38433b796ca4b6b9b9b7fb6c98e6a84",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-093\\e38433b796ca4b6b9b9b7fb6c98e6a84.glb"
+      },
+      {
+        "uid": "d498651cd446456793ad3475ab16f12e",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-016\\d498651cd446456793ad3475ab16f12e.glb"
+      },
+      {
+        "uid": "6e20df5cb27f49b88cc6c7a195981ed4",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-041\\6e20df5cb27f49b88cc6c7a195981ed4.glb"
+      },
+      {
+        "uid": "4979e70504904c219dc8e0713656f944",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-131\\4979e70504904c219dc8e0713656f944.glb"
+      },
+      {
+        "uid": "3eccbe9ebc8247359040f38e778871ca",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-098\\3eccbe9ebc8247359040f38e778871ca.glb"
+      },
+      {
+        "uid": "d21aad74be654d35a43b8859a43c0fee",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-038\\d21aad74be654d35a43b8859a43c0fee.glb"
+      },
+      {
+        "uid": "f25b9a40828c4508900e1d26aa9a88c7",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-051\\f25b9a40828c4508900e1d26aa9a88c7.glb"
+      },
+      {
+        "uid": "3308de942f37418e8f90f104191da0c8",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-018\\3308de942f37418e8f90f104191da0c8.glb"
+      },
+      {
+        "uid": "8223eeb9ff114b4db5b1f040f99829f0",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-005\\8223eeb9ff114b4db5b1f040f99829f0.glb"
+      },
+      {
+        "uid": "ab64bcb2962a4325bca10a08a59b6c5e",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-155\\ab64bcb2962a4325bca10a08a59b6c5e.glb"
+      },
+      {
+        "uid": "e19f15e067cc4ee59a351be3afe3e476",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-004\\e19f15e067cc4ee59a351be3afe3e476.glb"
+      },
+      {
+        "uid": "f36087616e7a4205b942dd4f4457c9d4",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-004\\f36087616e7a4205b942dd4f4457c9d4.glb"
+      },
+      {
+        "uid": "380200cc67484c51b01b48caba71a343",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-036\\380200cc67484c51b01b48caba71a343.glb"
+      },
+      {
+        "uid": "e5e185f84e644a1381e629ecfc8162a2",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-084\\e5e185f84e644a1381e629ecfc8162a2.glb"
+      },
+      {
+        "uid": "b8cbe9fd3c8d49ceb5e18f560c506728",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-005\\b8cbe9fd3c8d49ceb5e18f560c506728.glb"
+      },
+      {
+        "uid": "41ee688fc7ee4ea5ad4a984927ede2a2",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-041\\41ee688fc7ee4ea5ad4a984927ede2a2.glb"
+      },
+      {
+        "uid": "4b2427e240764a8b9db635d7e14ddf43",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-022\\4b2427e240764a8b9db635d7e14ddf43.glb"
+      },
+      {
+        "uid": "434ea44cc93b48fe8089e0e0f83a4876",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-087\\434ea44cc93b48fe8089e0e0f83a4876.glb"
+      },
+      {
+        "uid": "542158414c9f4452828b12df34786c44",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-012\\542158414c9f4452828b12df34786c44.glb"
+      },
+      {
+        "uid": "759487938f8d45c4a6ca4b90822ee430",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-054\\759487938f8d45c4a6ca4b90822ee430.glb"
+      },
+      {
+        "uid": "1893a7e7d9ce4544ba71506a2ee90097",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-134\\1893a7e7d9ce4544ba71506a2ee90097.glb"
+      },
+      {
+        "uid": "fb3b1c8073034d95927c3a91af195ba1",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-082\\fb3b1c8073034d95927c3a91af195ba1.glb"
+      },
+      {
+        "uid": "26cb34b5b9aa4d8c85e9e888fb470de8",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-006\\26cb34b5b9aa4d8c85e9e888fb470de8.glb"
+      },
+      {
+        "uid": "0cadda3714d647939769cd222e53542f",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-057\\0cadda3714d647939769cd222e53542f.glb"
+      },
+      {
+        "uid": "fe72cb4ca29c4b3fabe5df257fd2feff",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-136\\fe72cb4ca29c4b3fabe5df257fd2feff.glb"
+      },
+      {
+        "uid": "7ef27fb56eed4542a21f283b388a9c51",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-047\\7ef27fb56eed4542a21f283b388a9c51.glb"
+      },
+      {
+        "uid": "2eff4e8063394a0abafb32b2a3c0603a",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-032\\2eff4e8063394a0abafb32b2a3c0603a.glb"
+      },
+      {
+        "uid": "2c66b64c123b436eb522cd8a786142b5",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-110\\2c66b64c123b436eb522cd8a786142b5.glb"
+      },
+      {
+        "uid": "70dea595c5164a34959582a19c44e8f8",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-142\\70dea595c5164a34959582a19c44e8f8.glb"
+      },
+      {
+        "uid": "256a1a5762f340128febbae6c9c357f0",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-070\\256a1a5762f340128febbae6c9c357f0.glb"
+      },
+      {
+        "uid": "0acfb2346cc44decadf6a93ea6ce940a",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-152\\0acfb2346cc44decadf6a93ea6ce940a.glb"
+      },
+      {
+        "uid": "00a6f63bd4e049cd98427b00c4275cc3",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-036\\00a6f63bd4e049cd98427b00c4275cc3.glb"
+      },
+      {
+        "uid": "a04149f2e3304ed5bacf654f2ed559c3",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-026\\a04149f2e3304ed5bacf654f2ed559c3.glb"
+      },
+      {
+        "uid": "607443bac00d40bb849fcabceb9c4452",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-140\\607443bac00d40bb849fcabceb9c4452.glb"
+      },
+      {
+        "uid": "495f015c2d7540e4860110ef3e171927",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-047\\495f015c2d7540e4860110ef3e171927.glb"
+      },
+      {
+        "uid": "0539e6b913864b389261ccc8c3076c81",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-000\\0539e6b913864b389261ccc8c3076c81.glb"
+      },
+      {
+        "uid": "d32128f4b85d452a8ea5eb2db150e829",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-019\\d32128f4b85d452a8ea5eb2db150e829.glb"
+      },
+      {
+        "uid": "3bf26e0ad2a74b8aa741545ac7f54803",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-002\\3bf26e0ad2a74b8aa741545ac7f54803.glb"
+      },
+      {
+        "uid": "ba68b7dd4cc34c92ab2745644dbc398f",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-110\\ba68b7dd4cc34c92ab2745644dbc398f.glb"
+      },
+      {
+        "uid": "2d9ab1e838634284a373c63679980e53",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-145\\2d9ab1e838634284a373c63679980e53.glb"
+      },
+      {
+        "uid": "87e42985816741a5b94c2a927264caf4",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-027\\87e42985816741a5b94c2a927264caf4.glb"
+      },
+      {
+        "uid": "606a31ff606744798e9a2c6844240466",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-142\\606a31ff606744798e9a2c6844240466.glb"
+      },
+      {
+        "uid": "3ffd0e1e5e0a44c7b574e2da240ea79d",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-011\\3ffd0e1e5e0a44c7b574e2da240ea79d.glb"
+      },
+      {
+        "uid": "b1db0c08d66548c391c997ff69874776",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-084\\b1db0c08d66548c391c997ff69874776.glb"
+      },
+      {
+        "uid": "15cd97ec66c5480f8a67abb4c291db22",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-021\\15cd97ec66c5480f8a67abb4c291db22.glb"
+      },
+      {
+        "uid": "f2632d011b954b55910afcd473f5d204",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-139\\f2632d011b954b55910afcd473f5d204.glb"
+      }
+    ],
+    "青铜器": [
+      {
+        "uid": "10148f91487f4fc9b264e302bd7c673a",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-125\\10148f91487f4fc9b264e302bd7c673a.glb"
+      },
+      {
+        "uid": "9ec5bbe588e84b36abb8ce600b23980a",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-046\\9ec5bbe588e84b36abb8ce600b23980a.glb"
+      },
+      {
+        "uid": "aef09725cfc5489d85f0b3cc74b4bcd5",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-104\\aef09725cfc5489d85f0b3cc74b4bcd5.glb"
+      },
+      {
+        "uid": "63e357f3cd36465b85abae897e1696e6",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-113\\63e357f3cd36465b85abae897e1696e6.glb"
+      },
+      {
+        "uid": "9af24f0e823f4bd48cdc9829552b5f8b",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-016\\9af24f0e823f4bd48cdc9829552b5f8b.glb"
+      },
+      {
+        "uid": "53bbdf285b2a46a9a9254a933faa7d78",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-031\\53bbdf285b2a46a9a9254a933faa7d78.glb"
+      },
+      {
+        "uid": "3a6e31a795034157b43fdfa835ff1720",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-072\\3a6e31a795034157b43fdfa835ff1720.glb"
+      },
+      {
+        "uid": "202828523d24472b9a309ac3bbed9a17",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-087\\202828523d24472b9a309ac3bbed9a17.glb"
+      },
+      {
+        "uid": "ad42a40191e24e1eadbf72b7916a1b83",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-053\\ad42a40191e24e1eadbf72b7916a1b83.glb"
+      },
+      {
+        "uid": "b5ee83754ffc4f9a9204f3c72610cd60",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-042\\b5ee83754ffc4f9a9204f3c72610cd60.glb"
+      },
+      {
+        "uid": "60fde1a809e24dc2b7afc6bfd9b016f1",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-135\\60fde1a809e24dc2b7afc6bfd9b016f1.glb"
+      },
+      {
+        "uid": "a3dffcdc779b4be0a2075b5d4c3a45f9",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-044\\a3dffcdc779b4be0a2075b5d4c3a45f9.glb"
+      },
+      {
+        "uid": "0af557e5e95641a38a05fbfb1954e552",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-004\\0af557e5e95641a38a05fbfb1954e552.glb"
+      },
+      {
+        "uid": "b2a7b641512e492c94f8afd91dda6f32",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-129\\b2a7b641512e492c94f8afd91dda6f32.glb"
+      },
+      {
+        "uid": "7018a6ab87024f1d90b58b0cbb6bb39e",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-089\\7018a6ab87024f1d90b58b0cbb6bb39e.glb"
+      },
+      {
+        "uid": "5b930661644947fd8b5380c251e6904b",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-021\\5b930661644947fd8b5380c251e6904b.glb"
+      },
+      {
+        "uid": "a7b8c6dd86024e0d83ca0431e3a69eff",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-084\\a7b8c6dd86024e0d83ca0431e3a69eff.glb"
+      },
+      {
+        "uid": "e3dd8291a60943738e465f0197f53869",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-142\\e3dd8291a60943738e465f0197f53869.glb"
+      },
+      {
+        "uid": "efe46979bbb647f2941a533d4df7e04a",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-002\\efe46979bbb647f2941a533d4df7e04a.glb"
+      },
+      {
+        "uid": "903d1ac3abc841b5879d2b01715efee3",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-124\\903d1ac3abc841b5879d2b01715efee3.glb"
+      },
+      {
+        "uid": "3b5c830c77c7442a8c87b3c297c45c8c",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-101\\3b5c830c77c7442a8c87b3c297c45c8c.glb"
+      },
+      {
+        "uid": "8e76608278884c5fb01b79ac2e1c152e",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-076\\8e76608278884c5fb01b79ac2e1c152e.glb"
+      },
+      {
+        "uid": "c91963f582ad4c1196850ce7edbde055",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-089\\c91963f582ad4c1196850ce7edbde055.glb"
+      },
+      {
+        "uid": "0f2d08052f3648a2a42d1ea045fe60a2",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-132\\0f2d08052f3648a2a42d1ea045fe60a2.glb"
+      },
+      {
+        "uid": "f2933520da4a415bac61ed677275d2f9",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-058\\f2933520da4a415bac61ed677275d2f9.glb"
+      },
+      {
+        "uid": "9279045ec7044e1889f17b02fbb013a5",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-112\\9279045ec7044e1889f17b02fbb013a5.glb"
+      },
+      {
+        "uid": "42028a84ab9240dc8163841af188c93e",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-080\\42028a84ab9240dc8163841af188c93e.glb"
+      },
+      {
+        "uid": "a5e61e7333034e1ea2b5b9def7ec8dac",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-104\\a5e61e7333034e1ea2b5b9def7ec8dac.glb"
+      },
+      {
+        "uid": "9b2a0e3878fd4afd90c3b50986832a40",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-132\\9b2a0e3878fd4afd90c3b50986832a40.glb"
+      },
+      {
+        "uid": "a7920b5cbefa47e0bc1c3eaef46ec1c9",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-157\\a7920b5cbefa47e0bc1c3eaef46ec1c9.glb"
+      },
+      {
+        "uid": "0a2105a5cb9e4c99a62867e89dd9339d",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-067\\0a2105a5cb9e4c99a62867e89dd9339d.glb"
+      },
+      {
+        "uid": "7220b6283360440fbbf8ccff08e25a7f",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-000\\7220b6283360440fbbf8ccff08e25a7f.glb"
+      },
+      {
+        "uid": "3dfe7407b24b4012bd3025c46af27028",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-157\\3dfe7407b24b4012bd3025c46af27028.glb"
+      },
+      {
+        "uid": "096f3a6f0c11495a944fb7cf523318c1",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-028\\096f3a6f0c11495a944fb7cf523318c1.glb"
+      },
+      {
+        "uid": "50f8f98e2a724d4896a00cafcbe409d5",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-020\\50f8f98e2a724d4896a00cafcbe409d5.glb"
+      },
+      {
+        "uid": "edec8e53ce6b4200868178a24f376282",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-063\\edec8e53ce6b4200868178a24f376282.glb"
+      },
+      {
+        "uid": "e1a72a2329e942f584e379c24db4fe6a",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-060\\e1a72a2329e942f584e379c24db4fe6a.glb"
+      },
+      {
+        "uid": "ad5abe641f5240cc99790c593fc5033a",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-128\\ad5abe641f5240cc99790c593fc5033a.glb"
+      },
+      {
+        "uid": "21cc98087f32408da021cdf99b28328e",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-131\\21cc98087f32408da021cdf99b28328e.glb"
+      },
+      {
+        "uid": "ea9b05a36232472784c6cc4067cb93f0",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-073\\ea9b05a36232472784c6cc4067cb93f0.glb"
+      },
+      {
+        "uid": "f20f901592af42a7846857e55bce2081",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-066\\f20f901592af42a7846857e55bce2081.glb"
+      },
+      {
+        "uid": "10ab0817519343ecb21748b0a8e3542e",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-045\\10ab0817519343ecb21748b0a8e3542e.glb"
+      },
+      {
+        "uid": "175a8ae6e2a54cc5a9ddea48df39cd00",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-006\\175a8ae6e2a54cc5a9ddea48df39cd00.glb"
+      },
+      {
+        "uid": "d4ab77a0611a485b90d20b5f853d38b3",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-025\\d4ab77a0611a485b90d20b5f853d38b3.glb"
+      },
+      {
+        "uid": "b037b370d78748e3a0778be61d45cd23",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-128\\b037b370d78748e3a0778be61d45cd23.glb"
+      },
+      {
+        "uid": "1a090a6a3f28463d96ad6461366b25c0",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-134\\1a090a6a3f28463d96ad6461366b25c0.glb"
+      },
+      {
+        "uid": "016add9763df4e12a91a766589c19170",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-053\\016add9763df4e12a91a766589c19170.glb"
+      },
+      {
+        "uid": "ca08c3de15c34ca6b7d9796d81880033",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-045\\ca08c3de15c34ca6b7d9796d81880033.glb"
+      },
+      {
+        "uid": "a3257df530464f0fac388583081b177c",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-017\\a3257df530464f0fac388583081b177c.glb"
+      },
+      {
+        "uid": "39f9f70164f04bd09bca721e13cc3491",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-014\\39f9f70164f04bd09bca721e13cc3491.glb"
+      },
+      {
+        "uid": "72ce4ad24e9f402e8ec640e0cae02491",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-047\\72ce4ad24e9f402e8ec640e0cae02491.glb"
+      },
+      {
+        "uid": "49d1113fc0dd4664b4517b07ab6b9f28",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-117\\49d1113fc0dd4664b4517b07ab6b9f28.glb"
+      },
+      {
+        "uid": "21495772026148c8b7967aef3ea425fe",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-061\\21495772026148c8b7967aef3ea425fe.glb"
+      },
+      {
+        "uid": "f0fbc1acea804a4ea612dc547d07d76f",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-125\\f0fbc1acea804a4ea612dc547d07d76f.glb"
+      },
+      {
+        "uid": "44d0e7a7df2f4d139336ffe89bd7fd32",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-062\\44d0e7a7df2f4d139336ffe89bd7fd32.glb"
+      },
+      {
+        "uid": "a4553dee71dd4066af0358e3036cc8c7",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-046\\a4553dee71dd4066af0358e3036cc8c7.glb"
+      },
+      {
+        "uid": "0776c1e9a7994a41a711d9e0741f5fbf",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-122\\0776c1e9a7994a41a711d9e0741f5fbf.glb"
+      },
+      {
+        "uid": "d80d898b54d44a13bb150344d0da0004",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-145\\d80d898b54d44a13bb150344d0da0004.glb"
+      }
+    ],
+    "陶瓷器": [
+      {
+        "uid": "ec1c3f9437e4401cbbb206ee55791490",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-114\\ec1c3f9437e4401cbbb206ee55791490.glb"
+      },
+      {
+        "uid": "0aaf8989743c4cf587710648ef6ed05f",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-030\\0aaf8989743c4cf587710648ef6ed05f.glb"
+      },
+      {
+        "uid": "b4e5f0e6367e442c995eb1e241e61f74",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-051\\b4e5f0e6367e442c995eb1e241e61f74.glb"
+      },
+      {
+        "uid": "c3b6975ec55a46bfbe7bde74bd830cee",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-141\\c3b6975ec55a46bfbe7bde74bd830cee.glb"
+      },
+      {
+        "uid": "d19ab423e02546beb0c23719660fd1c7",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-104\\d19ab423e02546beb0c23719660fd1c7.glb"
+      },
+      {
+        "uid": "033c946a91ee401db2d7d5391ba5b036",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-000\\033c946a91ee401db2d7d5391ba5b036.glb"
+      },
+      {
+        "uid": "8487824860ab4ff7b9c54665eaf2f050",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-150\\8487824860ab4ff7b9c54665eaf2f050.glb"
+      },
+      {
+        "uid": "89e667d86eea41018821fd7796d09903",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-009\\89e667d86eea41018821fd7796d09903.glb"
+      },
+      {
+        "uid": "75183b418412474ba234fac7a4c0538b",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-093\\75183b418412474ba234fac7a4c0538b.glb"
+      },
+      {
+        "uid": "7bb94bd2fb1c4334a782afe3cc895951",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-062\\7bb94bd2fb1c4334a782afe3cc895951.glb"
+      },
+      {
+        "uid": "50db8b27c1414717b1aed8bd48ecf88d",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-075\\50db8b27c1414717b1aed8bd48ecf88d.glb"
+      },
+      {
+        "uid": "e0d5654c715d43ac87886fae90f3ce51",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-138\\e0d5654c715d43ac87886fae90f3ce51.glb"
+      },
+      {
+        "uid": "c4a455b25c7d4883878d0be82f602752",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-086\\c4a455b25c7d4883878d0be82f602752.glb"
+      },
+      {
+        "uid": "366878b31b014e00ac598757a6499891",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-136\\366878b31b014e00ac598757a6499891.glb"
+      },
+      {
+        "uid": "cd19839669604911997f34496da96bfe",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-083\\cd19839669604911997f34496da96bfe.glb"
+      },
+      {
+        "uid": "cc3e11dfa80144719a3092370991a7a7",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-121\\cc3e11dfa80144719a3092370991a7a7.glb"
+      },
+      {
+        "uid": "ca2abfebaa144797bfcbb24aff11df80",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-077\\ca2abfebaa144797bfcbb24aff11df80.glb"
+      },
+      {
+        "uid": "4191218218354b949b8eba4a9737fd60",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-029\\4191218218354b949b8eba4a9737fd60.glb"
+      },
+      {
+        "uid": "303b0a5b3c974cc586fe8ba7502e1ffc",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-000\\303b0a5b3c974cc586fe8ba7502e1ffc.glb"
+      },
+      {
+        "uid": "c820ba2fb4e34f10b5a9541b3972692d",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-140\\c820ba2fb4e34f10b5a9541b3972692d.glb"
+      },
+      {
+        "uid": "43e95c43931a4801849639bb08ece288",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-103\\43e95c43931a4801849639bb08ece288.glb"
+      },
+      {
+        "uid": "4766bde228384fffaa4f4c73cb91cee7",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-008\\4766bde228384fffaa4f4c73cb91cee7.glb"
+      },
+      {
+        "uid": "157e691ba8bb471a9ed5a31fb8614153",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-020\\157e691ba8bb471a9ed5a31fb8614153.glb"
+      },
+      {
+        "uid": "f7f1ec5cf5a64c859b254e8d4013aa37",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-143\\f7f1ec5cf5a64c859b254e8d4013aa37.glb"
+      },
+      {
+        "uid": "7cdf0ab3d55242858dc9e728501a4c72",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-150\\7cdf0ab3d55242858dc9e728501a4c72.glb"
+      },
+      {
+        "uid": "1bb9e5ea38dc442da356f874ef494264",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-006\\1bb9e5ea38dc442da356f874ef494264.glb"
+      },
+      {
+        "uid": "f8747732a10145bb830ca164248d7b95",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-045\\f8747732a10145bb830ca164248d7b95.glb"
+      },
+      {
+        "uid": "40782e7b182b4cad847ee222c1d5bc4d",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-060\\40782e7b182b4cad847ee222c1d5bc4d.glb"
+      },
+      {
+        "uid": "641ccf55ae80479691f2a8f01f97819c",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-047\\641ccf55ae80479691f2a8f01f97819c.glb"
+      },
+      {
+        "uid": "f80e4241bebe4a00ad57b0fb8d89b671",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-125\\f80e4241bebe4a00ad57b0fb8d89b671.glb"
+      },
+      {
+        "uid": "842e26f631d948b08fcf178b557aa99f",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-042\\842e26f631d948b08fcf178b557aa99f.glb"
+      },
+      {
+        "uid": "123f9c8a30884f91b34168c1375ae987",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-143\\123f9c8a30884f91b34168c1375ae987.glb"
+      },
+      {
+        "uid": "7867aa1e7d7041a3af665f329829a0c1",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-006\\7867aa1e7d7041a3af665f329829a0c1.glb"
+      },
+      {
+        "uid": "40c81b7afcc344648c599488c587e4a4",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-138\\40c81b7afcc344648c599488c587e4a4.glb"
+      },
+      {
+        "uid": "951b07b30215454294698c5ecc726b60",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-090\\951b07b30215454294698c5ecc726b60.glb"
+      },
+      {
+        "uid": "f0f4773bc58149c68ef48d5dec42475d",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-046\\f0f4773bc58149c68ef48d5dec42475d.glb"
+      },
+      {
+        "uid": "b1f9ad74ae914116b1d48bc3aae83b8c",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-013\\b1f9ad74ae914116b1d48bc3aae83b8c.glb"
+      },
+      {
+        "uid": "791c9a8942d945369f9f6273a96e697c",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-082\\791c9a8942d945369f9f6273a96e697c.glb"
+      },
+      {
+        "uid": "c609327dd3a74fb597584e1b4a14a615",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-032\\c609327dd3a74fb597584e1b4a14a615.glb"
+      },
+      {
+        "uid": "a65122a7523d473e864daa045193e8af",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-077\\a65122a7523d473e864daa045193e8af.glb"
+      },
+      {
+        "uid": "ba11f0bcd7c44f4cadafa4a91f964214",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-121\\ba11f0bcd7c44f4cadafa4a91f964214.glb"
+      },
+      {
+        "uid": "a564a11174be455bbce4698f7da92fdf",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-104\\a564a11174be455bbce4698f7da92fdf.glb"
+      },
+      {
+        "uid": "5d535677b79b47feac2f1b1e49b9ffe9",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-103\\5d535677b79b47feac2f1b1e49b9ffe9.glb"
+      },
+      {
+        "uid": "b0782caac0b1426797e38d98fe859dc9",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-071\\b0782caac0b1426797e38d98fe859dc9.glb"
+      },
+      {
+        "uid": "1f6a331e21db4f919f6e448bfde3a090",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-019\\1f6a331e21db4f919f6e448bfde3a090.glb"
+      },
+      {
+        "uid": "ee8294efa6344586a41efb8a8e05d88a",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-005\\ee8294efa6344586a41efb8a8e05d88a.glb"
+      },
+      {
+        "uid": "5b8a34ec3e9d4d15bf7d868ff576c9b0",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-060\\5b8a34ec3e9d4d15bf7d868ff576c9b0.glb"
+      }
+    ],
+    "玉器": [
+      {
+        "uid": "810cab0dbe70487e8d94791c7f4ff0e6",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-054\\810cab0dbe70487e8d94791c7f4ff0e6.glb"
+      },
+      {
+        "uid": "c447f77307a643649c6b19bad3be83de",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-129\\c447f77307a643649c6b19bad3be83de.glb"
+      },
+      {
+        "uid": "420f3f0eb81a4510a9ee16916c9e8ed7",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-052\\420f3f0eb81a4510a9ee16916c9e8ed7.glb"
+      },
+      {
+        "uid": "7457440ca9ce438ba071c4db7bb38edd",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-027\\7457440ca9ce438ba071c4db7bb38edd.glb"
+      },
+      {
+        "uid": "1934240d051b435083855adc4eabaa73",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-051\\1934240d051b435083855adc4eabaa73.glb"
+      },
+      {
+        "uid": "43455b25b80f45cc94e266929646f28f",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-049\\43455b25b80f45cc94e266929646f28f.glb"
+      },
+      {
+        "uid": "a1fad496198c468f9674f148653f8336",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-058\\a1fad496198c468f9674f148653f8336.glb"
+      },
+      {
+        "uid": "cc9b8def5f5d462d810f30e974322541",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-029\\cc9b8def5f5d462d810f30e974322541.glb"
+      },
+      {
+        "uid": "e65de5edf45b47b084b76b4a7b71c1d6",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-057\\e65de5edf45b47b084b76b4a7b71c1d6.glb"
+      },
+      {
+        "uid": "a5be6f94e59e47eda3db8d1225db5a63",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-028\\a5be6f94e59e47eda3db8d1225db5a63.glb"
+      },
+      {
+        "uid": "a2ffde4e392f45f085ad2659a1503edd",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-054\\a2ffde4e392f45f085ad2659a1503edd.glb"
+      },
+      {
+        "uid": "0463a7b5011f4925a50424ab3c1e3463",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-035\\0463a7b5011f4925a50424ab3c1e3463.glb"
+      },
+      {
+        "uid": "3d7f983ea6724c478ba0d72b545641e4",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-051\\3d7f983ea6724c478ba0d72b545641e4.glb"
+      },
+      {
+        "uid": "852a67421cae461d9c66ab45c60297e8",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-043\\852a67421cae461d9c66ab45c60297e8.glb"
+      },
+      {
+        "uid": "734ab343ed2d483b8127bf38d90311ad",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-124\\734ab343ed2d483b8127bf38d90311ad.glb"
+      },
+      {
+        "uid": "494a069beeb24eea8b8ec135e6c1fa60",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-014\\494a069beeb24eea8b8ec135e6c1fa60.glb"
+      },
+      {
+        "uid": "b0ddeb166ca44623a9f7f308a13336aa",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-108\\b0ddeb166ca44623a9f7f308a13336aa.glb"
+      },
+      {
+        "uid": "2ca86cd496414814b6b084f2168ba109",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-058\\2ca86cd496414814b6b084f2168ba109.glb"
+      },
+      {
+        "uid": "db6f9bdf3f2f48828e2236052a4154b6",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-125\\db6f9bdf3f2f48828e2236052a4154b6.glb"
+      },
+      {
+        "uid": "e118a7edf8564af5890831d6a79cfc04",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-006\\e118a7edf8564af5890831d6a79cfc04.glb"
+      },
+      {
+        "uid": "407d81b508e244908edf9421a7e3f2b1",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-016\\407d81b508e244908edf9421a7e3f2b1.glb"
+      },
+      {
+        "uid": "89ff37bf165c41eb87836f916eb440ac",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-053\\89ff37bf165c41eb87836f916eb440ac.glb"
+      },
+      {
+        "uid": "e717869b56344ff0b4fc801e7e7c2a87",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-051\\e717869b56344ff0b4fc801e7e7c2a87.glb"
+      }
+    ],
+    "壁画": [
+      {
+        "uid": "f2643c116c15498e881d4dc97394b9e6",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-031\\f2643c116c15498e881d4dc97394b9e6.glb"
+      },
+      {
+        "uid": "6010d990c39b4f778f8d246af74b4dbe",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-044\\6010d990c39b4f778f8d246af74b4dbe.glb"
+      },
+      {
+        "uid": "ad071f3fa42c44b1a239bfb80d36003c",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-032\\ad071f3fa42c44b1a239bfb80d36003c.glb"
+      },
+      {
+        "uid": "c1abfaf7c24b480bae38ce94f18ae65e",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-003\\c1abfaf7c24b480bae38ce94f18ae65e.glb"
+      },
+      {
+        "uid": "36de8b767286437885f0675b789cafb0",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-076\\36de8b767286437885f0675b789cafb0.glb"
+      },
+      {
+        "uid": "eb3f2354354a4e67a709bf2cab522049",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-119\\eb3f2354354a4e67a709bf2cab522049.glb"
+      },
+      {
+        "uid": "61c3f9ddde03444e820ff978e2622050",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-042\\61c3f9ddde03444e820ff978e2622050.glb"
+      },
+      {
+        "uid": "ad5774492b48448f8dd47f39c6330630",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-057\\ad5774492b48448f8dd47f39c6330630.glb"
+      },
+      {
+        "uid": "00a57bbd1c894a7cb9e45ec396a8f660",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-000\\00a57bbd1c894a7cb9e45ec396a8f660.glb"
+      },
+      {
+        "uid": "ce7a3a3c382943528f7f04702515cbfc",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-069\\ce7a3a3c382943528f7f04702515cbfc.glb"
+      },
+      {
+        "uid": "a38c5761120e427bb2171ef4ebad531b",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-001\\a38c5761120e427bb2171ef4ebad531b.glb"
+      },
+      {
+        "uid": "35dd8973f22040e9886b6dc8186d2ce9",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-139\\35dd8973f22040e9886b6dc8186d2ce9.glb"
+      },
+      {
+        "uid": "10feffdd0d9b40dea990f2784ce9cf52",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-044\\10feffdd0d9b40dea990f2784ce9cf52.glb"
+      },
+      {
+        "uid": "99e4880a52c44897b16cfcd3fb12d5e5",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-054\\99e4880a52c44897b16cfcd3fb12d5e5.glb"
+      },
+      {
+        "uid": "3bfc45bc729c434aaf7c782ac12d66ca",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-062\\3bfc45bc729c434aaf7c782ac12d66ca.glb"
+      },
+      {
+        "uid": "9d07d1221c50423aa95058f3d7b47893",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-073\\9d07d1221c50423aa95058f3d7b47893.glb"
+      },
+      {
+        "uid": "308623325be8470b9d4bd4f349602c5e",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-054\\308623325be8470b9d4bd4f349602c5e.glb"
+      },
+      {
+        "uid": "49fc5dd4bdc34951b29fb43aaaa9f3b5",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-043\\49fc5dd4bdc34951b29fb43aaaa9f3b5.glb"
+      },
+      {
+        "uid": "311175c1155c439cacaa79afbb69d540",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-063\\311175c1155c439cacaa79afbb69d540.glb"
+      },
+      {
+        "uid": "0c37b3cdc485481281db217e4a581ec6",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-147\\0c37b3cdc485481281db217e4a581ec6.glb"
+      },
+      {
+        "uid": "6bac7ea154b24666bb1268eea48dee39",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-076\\6bac7ea154b24666bb1268eea48dee39.glb"
+      },
+      {
+        "uid": "eecc7216ab704bdf9c7fb1ef33c23889",
+        "glb_path": "C:\\Users\\黄文全\\.cache\\.objaverse\\hf-objaverse-v1\\glbs\\000-124\\eecc7216ab704bdf9c7fb1ef33c23889.glb"
+      }
+    ]
+  }
+}

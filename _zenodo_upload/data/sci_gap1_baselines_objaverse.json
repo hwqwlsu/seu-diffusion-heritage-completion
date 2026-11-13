@@ -1,0 +1,578 @@
+[
+  {
+    "uid": "cb375e54de37449ba5bba4464e549c9a",
+    "level": 0.4,
+    "method": "IMLS-MC",
+    "cd": 0.05324473511462449,
+    "f_score": 0.2665156041347028,
+    "runtime_s": 13.84
+  },
+  {
+    "uid": "cb375e54de37449ba5bba4464e549c9a",
+    "level": 0.4,
+    "method": "AlphaShape",
+    "cd": 0.03843979264967821,
+    "f_score": 0.34818972346556065,
+    "runtime_s": 0.49
+  },
+  {
+    "uid": "6cc4ecd4f6194f4882bc484236d06cfe",
+    "level": 0.4,
+    "method": "IMLS-MC",
+    "cd": 0.07858649097795245,
+    "f_score": 0.13646508373302435,
+    "runtime_s": 9.44
+  },
+  {
+    "uid": "6cc4ecd4f6194f4882bc484236d06cfe",
+    "level": 0.4,
+    "method": "AlphaShape",
+    "cd": 0.03876719931174049,
+    "f_score": 0.5001040112078137,
+    "runtime_s": 0.66
+  },
+  {
+    "uid": "fc454328e92b458d94fb3594e8ea58c1",
+    "level": 0.4,
+    "method": "IMLS-MC",
+    "cd": 0.05052619031696375,
+    "f_score": 0.32440091386403,
+    "runtime_s": 10.4
+  },
+  {
+    "uid": "fc454328e92b458d94fb3594e8ea58c1",
+    "level": 0.4,
+    "method": "AlphaShape",
+    "cd": 0.028022010981488498,
+    "f_score": 0.46885680360912785,
+    "runtime_s": 0.46
+  },
+  {
+    "uid": "7947df3d798646929321e6ed0d01a0cd",
+    "level": 0.4,
+    "method": "IMLS-MC",
+    "cd": 0.0298570251302747,
+    "f_score": 0.4467014349699183,
+    "runtime_s": 12.75
+  },
+  {
+    "uid": "7947df3d798646929321e6ed0d01a0cd",
+    "level": 0.4,
+    "method": "AlphaShape",
+    "cd": 0.057608114692967914,
+    "f_score": 0.353077500674946,
+    "runtime_s": 0.35
+  },
+  {
+    "uid": "3c78e4de48054990ae546e2118fdc1f9",
+    "level": 0.4,
+    "method": "IMLS-MC",
+    "cd": 0.12878401922493132,
+    "f_score": 0.1514642715814591,
+    "runtime_s": 20.33
+  },
+  {
+    "uid": "3c78e4de48054990ae546e2118fdc1f9",
+    "level": 0.4,
+    "method": "AlphaShape",
+    "cd": 0.04681536125513732,
+    "f_score": 0.4659416554898759,
+    "runtime_s": 0.64
+  },
+  {
+    "uid": "3c517c07fad44b75b60f0b817b23e60e",
+    "level": 0.4,
+    "method": "IMLS-MC",
+    "cd": 0.11684724877354455,
+    "f_score": 0.13791903755280546,
+    "runtime_s": 18.16
+  },
+  {
+    "uid": "3c517c07fad44b75b60f0b817b23e60e",
+    "level": 0.4,
+    "method": "AlphaShape",
+    "cd": 0.06046982528014576,
+    "f_score": 0.302854342136335,
+    "runtime_s": 0.53
+  },
+  {
+    "uid": "f4962c4c668c455c9f93b5875525aa55",
+    "level": 0.4,
+    "method": "IMLS-MC",
+    "cd": 0.01820913571213638,
+    "f_score": 0.6349245135007643,
+    "runtime_s": 10.82
+  },
+  {
+    "uid": "f4962c4c668c455c9f93b5875525aa55",
+    "level": 0.4,
+    "method": "AlphaShape",
+    "cd": 0.01797936484189217,
+    "f_score": 0.5761242367020485,
+    "runtime_s": 0.47
+  },
+  {
+    "uid": "5d1181c610414c1c9d4a08c65971b355",
+    "level": 0.4,
+    "method": "IMLS-MC",
+    "cd": 0.07158618560549071,
+    "f_score": 0.21010073136511037,
+    "runtime_s": 11.78
+  },
+  {
+    "uid": "5d1181c610414c1c9d4a08c65971b355",
+    "level": 0.4,
+    "method": "AlphaShape",
+    "cd": 0.04464797774378231,
+    "f_score": 0.34200562961096426,
+    "runtime_s": 0.44
+  },
+  {
+    "uid": "c423dbcb8b0243d584fe96544f649997",
+    "level": 0.4,
+    "method": "IMLS-MC",
+    "cd": 0.07336182781821322,
+    "f_score": 0.2335678061157542,
+    "runtime_s": 14.36
+  },
+  {
+    "uid": "c423dbcb8b0243d584fe96544f649997",
+    "level": 0.4,
+    "method": "AlphaShape",
+    "cd": 0.042029937502363085,
+    "f_score": 0.34213561984738305,
+    "runtime_s": 0.42
+  },
+  {
+    "uid": "99d36b159cc64b428ad0c2fb014e9d7a",
+    "level": 0.4,
+    "method": "IMLS-MC",
+    "cd": 0.13203190161420278,
+    "f_score": 0.1840822968367555,
+    "runtime_s": 15.46
+  },
+  {
+    "uid": "99d36b159cc64b428ad0c2fb014e9d7a",
+    "level": 0.4,
+    "method": "AlphaShape",
+    "cd": 0.054438309109552094,
+    "f_score": 0.43175437041776177,
+    "runtime_s": 0.43
+  },
+  {
+    "uid": "037e4884b7e647a8b977e4447722bc8b",
+    "level": 0.4,
+    "method": "IMLS-MC",
+    "cd": 0.048938793322339795,
+    "f_score": 0.24795518925923124,
+    "runtime_s": 8.44
+  },
+  {
+    "uid": "037e4884b7e647a8b977e4447722bc8b",
+    "level": 0.4,
+    "method": "AlphaShape",
+    "cd": 0.04705771584153323,
+    "f_score": 0.2563287278091953,
+    "runtime_s": 0.39
+  },
+  {
+    "uid": "57be8101f0d0485594b58ce2963d2d96",
+    "level": 0.4,
+    "method": "IMLS-MC",
+    "cd": 0.03821415264440025,
+    "f_score": 0.2977694320131633,
+    "runtime_s": 9.95
+  },
+  {
+    "uid": "57be8101f0d0485594b58ce2963d2d96",
+    "level": 0.4,
+    "method": "AlphaShape",
+    "cd": 0.05127558186968321,
+    "f_score": 0.24731726851084576,
+    "runtime_s": 0.5
+  },
+  {
+    "uid": "e422c7d536f64948b9dece34024f1451",
+    "level": 0.4,
+    "method": "IMLS-MC",
+    "cd": 0.09944937697372322,
+    "f_score": 0.23976066997773313,
+    "runtime_s": 21.55
+  },
+  {
+    "uid": "e422c7d536f64948b9dece34024f1451",
+    "level": 0.4,
+    "method": "AlphaShape",
+    "cd": 0.04009559590101032,
+    "f_score": 0.40377653841977035,
+    "runtime_s": 0.71
+  },
+  {
+    "uid": "00781e5e4be44130bec5269e44f2f5a9",
+    "level": 0.4,
+    "method": "IMLS-MC",
+    "cd": 0.09940163652373948,
+    "f_score": 0.19413107400412088,
+    "runtime_s": 12.29
+  },
+  {
+    "uid": "00781e5e4be44130bec5269e44f2f5a9",
+    "level": 0.4,
+    "method": "AlphaShape",
+    "cd": 0.03517254669589445,
+    "f_score": 0.5149341125416322,
+    "runtime_s": 0.55
+  },
+  {
+    "uid": "0adb377236c84c55be35878cc4d2a18a",
+    "level": 0.4,
+    "method": "IMLS-MC",
+    "cd": 0.06190506117825438,
+    "f_score": 0.29782863529506653,
+    "runtime_s": 9.69
+  },
+  {
+    "uid": "0adb377236c84c55be35878cc4d2a18a",
+    "level": 0.4,
+    "method": "AlphaShape",
+    "cd": 0.02991419047760434,
+    "f_score": 0.5649608289171031,
+    "runtime_s": 0.48
+  },
+  {
+    "uid": "bccaad9c6cef4e91a7bbf71666e45745",
+    "level": 0.4,
+    "method": "IMLS-MC",
+    "cd": 0.07204954607803285,
+    "f_score": 0.11065670461596801,
+    "runtime_s": 11.79
+  },
+  {
+    "uid": "bccaad9c6cef4e91a7bbf71666e45745",
+    "level": 0.4,
+    "method": "AlphaShape",
+    "cd": 0.07356011124092747,
+    "f_score": 0.25780439741599975,
+    "runtime_s": 0.49
+  },
+  {
+    "uid": "44895b008b8a4546920d385b10f47c16",
+    "level": 0.4,
+    "method": "IMLS-MC",
+    "cd": 0.03810675902764292,
+    "f_score": 0.26949908282305746,
+    "runtime_s": 10.57
+  },
+  {
+    "uid": "44895b008b8a4546920d385b10f47c16",
+    "level": 0.4,
+    "method": "AlphaShape",
+    "cd": 0.028886829174786396,
+    "f_score": 0.33213626142373553,
+    "runtime_s": 0.74
+  },
+  {
+    "uid": "824d2945e0b549f9a9b9bd0fa834a678",
+    "level": 0.4,
+    "method": "IMLS-MC",
+    "cd": 0.08347331521175197,
+    "f_score": 0.1853322416897642,
+    "runtime_s": 20.59
+  },
+  {
+    "uid": "824d2945e0b549f9a9b9bd0fa834a678",
+    "level": 0.4,
+    "method": "AlphaShape",
+    "cd": 0.03843197900803086,
+    "f_score": 0.5977353470726684,
+    "runtime_s": 0.51
+  },
+  {
+    "uid": "1a99a7d2e1034609a657ae62ae49a8c6",
+    "level": 0.4,
+    "method": "IMLS-MC",
+    "cd": 0.06604112280936004,
+    "f_score": 0.17691683145776363,
+    "runtime_s": 10.07
+  },
+  {
+    "uid": "1a99a7d2e1034609a657ae62ae49a8c6",
+    "level": 0.4,
+    "method": "AlphaShape",
+    "cd": 0.06157537456007814,
+    "f_score": 0.30614701996259835,
+    "runtime_s": 0.51
+  },
+  {
+    "uid": "eab85de3de6644b5b5430526baf6324e",
+    "level": 0.4,
+    "method": "IMLS-MC",
+    "cd": 0.03959433343626402,
+    "f_score": 0.5576081049453047,
+    "runtime_s": 41.85
+  },
+  {
+    "uid": "eab85de3de6644b5b5430526baf6324e",
+    "level": 0.4,
+    "method": "AlphaShape",
+    "cd": 0.12498258506281072,
+    "f_score": 0.07800200277525586,
+    "runtime_s": 11.6
+  },
+  {
+    "uid": "e51c441a781d474d83b44b7dd3f6eb32",
+    "level": 0.4,
+    "method": "IMLS-MC",
+    "cd": 0.05498867468852012,
+    "f_score": 0.22787564974734925,
+    "runtime_s": 11.0
+  },
+  {
+    "uid": "e51c441a781d474d83b44b7dd3f6eb32",
+    "level": 0.4,
+    "method": "AlphaShape",
+    "cd": 0.04829868676021615,
+    "f_score": 0.3228788604765167,
+    "runtime_s": 0.53
+  },
+  {
+    "uid": "29bc1c843214438da53fa6866c62e78f",
+    "level": 0.4,
+    "method": "IMLS-MC",
+    "cd": 0.03003429632956493,
+    "f_score": 0.3897056915504789,
+    "runtime_s": 8.56
+  },
+  {
+    "uid": "29bc1c843214438da53fa6866c62e78f",
+    "level": 0.4,
+    "method": "AlphaShape",
+    "cd": 0.028588334257547237,
+    "f_score": 0.5229052426266535,
+    "runtime_s": 0.59
+  },
+  {
+    "uid": "4526b1cbaf8244539c190be6ace277ab",
+    "level": 0.4,
+    "method": "IMLS-MC",
+    "cd": 0.11135085060819017,
+    "f_score": 0.15521430182555307,
+    "runtime_s": 12.35
+  },
+  {
+    "uid": "4526b1cbaf8244539c190be6ace277ab",
+    "level": 0.4,
+    "method": "AlphaShape",
+    "cd": 0.06034033035939374,
+    "f_score": 0.42619684603067115,
+    "runtime_s": 0.63
+  },
+  {
+    "uid": "4e43eb29aa144bdbada1ec500d218a81",
+    "level": 0.4,
+    "method": "IMLS-MC",
+    "cd": 0.0324795693574228,
+    "f_score": 0.24374615817769624,
+    "runtime_s": 12.96
+  },
+  {
+    "uid": "4e43eb29aa144bdbada1ec500d218a81",
+    "level": 0.4,
+    "method": "AlphaShape",
+    "cd": 0.04284911451320116,
+    "f_score": 0.270858242848834,
+    "runtime_s": 0.78
+  },
+  {
+    "uid": "0d464970efd64ef8addf1705fa912afa",
+    "level": 0.4,
+    "method": "IMLS-MC",
+    "cd": 0.06877293229314857,
+    "f_score": 0.22076019249521006,
+    "runtime_s": 11.35
+  },
+  {
+    "uid": "0d464970efd64ef8addf1705fa912afa",
+    "level": 0.4,
+    "method": "AlphaShape",
+    "cd": 0.03936901234175021,
+    "f_score": 0.3842950200467285,
+    "runtime_s": 0.46
+  },
+  {
+    "uid": "62f8e81055d54a118a99d3830da031dd",
+    "level": 0.4,
+    "method": "IMLS-MC",
+    "cd": 0.05394052965666223,
+    "f_score": 0.1966552548150267,
+    "runtime_s": 11.37
+  },
+  {
+    "uid": "62f8e81055d54a118a99d3830da031dd",
+    "level": 0.4,
+    "method": "AlphaShape",
+    "cd": 0.031995529872374195,
+    "f_score": 0.44000921472815197,
+    "runtime_s": 0.71
+  },
+  {
+    "uid": "c4770ab2c06f48e48ecfe918314a1a44",
+    "level": 0.4,
+    "method": "IMLS-MC",
+    "cd": 0.04325227385428339,
+    "f_score": 0.11868215915376107,
+    "runtime_s": 5.25
+  },
+  {
+    "uid": "c4770ab2c06f48e48ecfe918314a1a44",
+    "level": 0.4,
+    "method": "AlphaShape",
+    "cd": 0.05207314025443166,
+    "f_score": 0.513842467187766,
+    "runtime_s": 0.43
+  },
+  {
+    "uid": "d77a46bb8f634cb68f2ed9c6f2ee0f7b",
+    "level": 0.4,
+    "method": "IMLS-MC",
+    "cd": 0.04115920973642117,
+    "f_score": 0.18263411055985887,
+    "runtime_s": 11.55
+  },
+  {
+    "uid": "d77a46bb8f634cb68f2ed9c6f2ee0f7b",
+    "level": 0.4,
+    "method": "AlphaShape",
+    "cd": 0.040830712879361,
+    "f_score": 0.25529335974737843,
+    "runtime_s": 0.53
+  },
+  {
+    "uid": "a9568a64b1f94ef5b59128fa60054ca2",
+    "level": 0.4,
+    "method": "IMLS-MC",
+    "cd": 0.07368412530571798,
+    "f_score": 0.14832353180770003,
+    "runtime_s": 13.01
+  },
+  {
+    "uid": "a9568a64b1f94ef5b59128fa60054ca2",
+    "level": 0.4,
+    "method": "AlphaShape",
+    "cd": 0.04127756836843466,
+    "f_score": 0.4021675370874962,
+    "runtime_s": 0.54
+  },
+  {
+    "uid": "8b3d9008b5924caf920a73cf926a32d1",
+    "level": 0.4,
+    "method": "IMLS-MC",
+    "cd": 0.04048471932561864,
+    "f_score": 0.2998040178265292,
+    "runtime_s": 9.39
+  },
+  {
+    "uid": "8b3d9008b5924caf920a73cf926a32d1",
+    "level": 0.4,
+    "method": "AlphaShape",
+    "cd": 0.03080580924777224,
+    "f_score": 0.6182772343289681,
+    "runtime_s": 0.5
+  },
+  {
+    "uid": "f6ab827dad0d4364a539800122577584",
+    "level": 0.4,
+    "method": "IMLS-MC",
+    "cd": 0.04675385149042912,
+    "f_score": 0.30392185760452745,
+    "runtime_s": 9.92
+  },
+  {
+    "uid": "f6ab827dad0d4364a539800122577584",
+    "level": 0.4,
+    "method": "AlphaShape",
+    "cd": 0.04248079311305508,
+    "f_score": 0.42424247634242956,
+    "runtime_s": 0.69
+  },
+  {
+    "uid": "99a905713f6a44228f15f59c193ca974",
+    "level": 0.4,
+    "method": "IMLS-MC",
+    "cd": 0.08460660241996959,
+    "f_score": 0.17243832906921328,
+    "runtime_s": 22.4
+  },
+  {
+    "uid": "99a905713f6a44228f15f59c193ca974",
+    "level": 0.4,
+    "method": "AlphaShape",
+    "cd": 0.03733604888535967,
+    "f_score": 0.5444543281810705,
+    "runtime_s": 0.47
+  },
+  {
+    "uid": "561ee2b9725b41a58c6792b09bf4698b",
+    "level": 0.4,
+    "method": "IMLS-MC",
+    "cd": 0.10222071797618668,
+    "f_score": 0.21410962513514928,
+    "runtime_s": 14.68
+  },
+  {
+    "uid": "561ee2b9725b41a58c6792b09bf4698b",
+    "level": 0.4,
+    "method": "AlphaShape",
+    "cd": 0.04748945313438706,
+    "f_score": 0.30928850253869666,
+    "runtime_s": 0.45
+  },
+  {
+    "uid": "98152e492164485f9c476715c3477565",
+    "level": 0.4,
+    "method": "IMLS-MC",
+    "cd": 0.08187580073079598,
+    "f_score": 0.15170501684432824,
+    "runtime_s": 18.23
+  },
+  {
+    "uid": "98152e492164485f9c476715c3477565",
+    "level": 0.4,
+    "method": "AlphaShape",
+    "cd": 0.06782346664163812,
+    "f_score": 0.3374014070098488,
+    "runtime_s": 0.48
+  },
+  {
+    "uid": "bb0d4e90dfde4cd58076859edf0a129d",
+    "level": 0.4,
+    "method": "IMLS-MC",
+    "cd": 0.08140903251653038,
+    "f_score": 0.09363412857055664,
+    "runtime_s": 10.63
+  },
+  {
+    "uid": "bb0d4e90dfde4cd58076859edf0a129d",
+    "level": 0.4,
+    "method": "AlphaShape",
+    "cd": 0.035451594511988635,
+    "f_score": 0.27424769280477324,
+    "runtime_s": 0.7
+  },
+  {
+    "uid": "44e149931dcf450c8b6b3ad1fa78884e",
+    "level": 0.4,
+    "method": "IMLS-MC",
+    "cd": 0.12505832113685972,
+    "f_score": 0.054522416986827665,
+    "runtime_s": 19.05
+  },
+  {
+    "uid": "44e149931dcf450c8b6b3ad1fa78884e",
+    "level": 0.4,
+    "method": "AlphaShape",
+    "cd": 0.06978241797544282,
+    "f_score": 0.1940588478461712,
+    "runtime_s": 6.24
+  }
+]

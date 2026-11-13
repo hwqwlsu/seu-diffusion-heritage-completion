@@ -1,0 +1,482 @@
+[
+  {
+    "uid": "f36087616e7a4205b942dd4f4457c9d4",
+    "category": "\u53e4\u5efa\u7b51\u6784\u4ef6",
+    "cd": 0.03800582036849673,
+    "seu": 5.861231327056885,
+    "n_visible": 9831,
+    "n_completed": 6553
+  },
+  {
+    "uid": "1e94748eb7994b95ae63051e80caaece",
+    "category": "\u77f3\u7a9f\u9020\u50cf",
+    "cd": 0.027655074865810418,
+    "seu": 4.6343302726745605,
+    "n_visible": 9831,
+    "n_completed": 6553
+  },
+  {
+    "uid": "223339de9de34ef0bda79697060c3da0",
+    "category": "\u77f3\u7a9f\u9020\u50cf",
+    "cd": 0.029555589237835904,
+    "seu": 12.151092529296875,
+    "n_visible": 9831,
+    "n_completed": 6553
+  },
+  {
+    "uid": "d570e51c348a41778f8f6d8ca88f2791",
+    "category": "\u53e4\u5efa\u7b51\u6784\u4ef6",
+    "cd": 0.05093171713298616,
+    "seu": 6.184145927429199,
+    "n_visible": 9830,
+    "n_completed": 6553
+  },
+  {
+    "uid": "f2632d011b954b55910afcd473f5d204",
+    "category": "\u53e4\u5efa\u7b51\u6784\u4ef6",
+    "cd": 0.07136577869610441,
+    "seu": 7.197783470153809,
+    "n_visible": 9831,
+    "n_completed": 6553
+  },
+  {
+    "uid": "26cb34b5b9aa4d8c85e9e888fb470de8",
+    "category": "\u53e4\u5efa\u7b51\u6784\u4ef6",
+    "cd": 0.03698021822029099,
+    "seu": 3.3247580528259277,
+    "n_visible": 9830,
+    "n_completed": 6553
+  },
+  {
+    "uid": "641ccf55ae80479691f2a8f01f97819c",
+    "category": "\u9676\u74f7\u5668",
+    "cd": 0.059489921289094305,
+    "seu": 28.857879638671875,
+    "n_visible": 10457,
+    "n_completed": 6553
+  },
+  {
+    "uid": "cc3e11dfa80144719a3092370991a7a7",
+    "category": "\u9676\u74f7\u5668",
+    "cd": 0.0415129985570546,
+    "seu": 12.826602935791016,
+    "n_visible": 9830,
+    "n_completed": 6553
+  },
+  {
+    "uid": "ea9b05a36232472784c6cc4067cb93f0",
+    "category": "\u9752\u94dc\u5668",
+    "cd": 0.03118816086725268,
+    "seu": 3.374335765838623,
+    "n_visible": 9831,
+    "n_completed": 6553
+  },
+  {
+    "uid": "ee0229f75b72438c9a858afe4f47ec8b",
+    "category": "\u77f3\u7a9f\u9020\u50cf",
+    "cd": 0.03653482016414152,
+    "seu": 13.552753448486328,
+    "n_visible": 9830,
+    "n_completed": 6553
+  },
+  {
+    "uid": "ce7a3a3c382943528f7f04702515cbfc",
+    "category": "\u58c1\u753b",
+    "cd": 0.05435984452607722,
+    "seu": 1.0439262390136719,
+    "n_visible": 9830,
+    "n_completed": 6553
+  },
+  {
+    "uid": "c1abfaf7c24b480bae38ce94f18ae65e",
+    "category": "\u58c1\u753b",
+    "cd": 0.029930345337064186,
+    "seu": 12.201650619506836,
+    "n_visible": 9831,
+    "n_completed": 6553
+  },
+  {
+    "uid": "b696addbd32746e6803f38cd605e8ea3",
+    "category": "\u53e4\u5efa\u7b51\u6784\u4ef6",
+    "cd": 0.05164770786245051,
+    "seu": 8.176061630249023,
+    "n_visible": 9830,
+    "n_completed": 6553
+  },
+  {
+    "uid": "483ec966a2c4420ead73aeb824bbfe2b",
+    "category": "\u77f3\u7a9f\u9020\u50cf",
+    "cd": 0.03654547454180633,
+    "seu": 2.994689464569092,
+    "n_visible": 9831,
+    "n_completed": 6553
+  },
+  {
+    "uid": "40782e7b182b4cad847ee222c1d5bc4d",
+    "category": "\u9676\u74f7\u5668",
+    "cd": 0.0335186075664284,
+    "seu": 2.9428863525390625,
+    "n_visible": 9831,
+    "n_completed": 6553
+  },
+  {
+    "uid": "f80e4241bebe4a00ad57b0fb8d89b671",
+    "category": "\u9676\u74f7\u5668",
+    "cd": 0.021437018414626828,
+    "seu": 4.883362770080566,
+    "n_visible": 9830,
+    "n_completed": 6553
+  },
+  {
+    "uid": "512a7e0c3c714e1ea1a5c83f90f53361",
+    "category": "\u53e4\u5efa\u7b51\u6784\u4ef6",
+    "cd": 0.03317580855875319,
+    "seu": 10.144234657287598,
+    "n_visible": 9831,
+    "n_completed": 6553
+  },
+  {
+    "uid": "a04149f2e3304ed5bacf654f2ed559c3",
+    "category": "\u53e4\u5efa\u7b51\u6784\u4ef6",
+    "cd": 0.044460789329121474,
+    "seu": 1.5842688083648682,
+    "n_visible": 9830,
+    "n_completed": 6553
+  },
+  {
+    "uid": "ee8294efa6344586a41efb8a8e05d88a",
+    "category": "\u9676\u74f7\u5668",
+    "cd": 0.042657097991102066,
+    "seu": 19.31243896484375,
+    "n_visible": 9831,
+    "n_completed": 6553
+  },
+  {
+    "uid": "c38f02c4944c4a5ba11ba51f66be9572",
+    "category": "\u77f3\u7a9f\u9020\u50cf",
+    "cd": 0.03495752775619532,
+    "seu": 8.368968963623047,
+    "n_visible": 9831,
+    "n_completed": 6553
+  },
+  {
+    "uid": "8addefd5e4b44a22b0a4b696bf3c5ad1",
+    "category": "\u77f3\u7a9f\u9020\u50cf",
+    "cd": 0.02749663448738631,
+    "seu": 7.193273067474365,
+    "n_visible": 9831,
+    "n_completed": 6553
+  },
+  {
+    "uid": "e3dd8291a60943738e465f0197f53869",
+    "category": "\u9752\u94dc\u5668",
+    "cd": 0.031834343175425696,
+    "seu": 23.963035583496094,
+    "n_visible": 9831,
+    "n_completed": 6553
+  },
+  {
+    "uid": "47b3fd592b1a4d0aa4e248dfcc361db8",
+    "category": "\u53e4\u5efa\u7b51\u6784\u4ef6",
+    "cd": 0.022746607292018647,
+    "seu": 4.371645927429199,
+    "n_visible": 9830,
+    "n_completed": 6553
+  },
+  {
+    "uid": "123f9c8a30884f91b34168c1375ae987",
+    "category": "\u9676\u74f7\u5668",
+    "cd": 0.038498717565688984,
+    "seu": 5.746917247772217,
+    "n_visible": 9830,
+    "n_completed": 6553
+  },
+  {
+    "uid": "234dc44c8f594d4fa0dfb74ab1c23afc",
+    "category": "\u53e4\u5efa\u7b51\u6784\u4ef6",
+    "cd": 0.051355344885613344,
+    "seu": 53.20022964477539,
+    "n_visible": 9830,
+    "n_completed": 6553
+  },
+  {
+    "uid": "b7552a5286ae4043a2e2671be91e6313",
+    "category": "\u77f3\u7a9f\u9020\u50cf",
+    "cd": 0.03623859163581707,
+    "seu": 16.502098083496094,
+    "n_visible": 9831,
+    "n_completed": 6553
+  },
+  {
+    "uid": "c4a455b25c7d4883878d0be82f602752",
+    "category": "\u9676\u74f7\u5668",
+    "cd": 0.02779732126847982,
+    "seu": 14.017253875732422,
+    "n_visible": 9831,
+    "n_completed": 6553
+  },
+  {
+    "uid": "7220b6283360440fbbf8ccff08e25a7f",
+    "category": "\u9752\u94dc\u5668",
+    "cd": 0.051229446789413983,
+    "seu": 12.555496215820312,
+    "n_visible": 9831,
+    "n_completed": 6553
+  },
+  {
+    "uid": "8e76608278884c5fb01b79ac2e1c152e",
+    "category": "\u9752\u94dc\u5668",
+    "cd": 0.047351718038007945,
+    "seu": 16.305585861206055,
+    "n_visible": 9830,
+    "n_completed": 6553
+  },
+  {
+    "uid": "71543a73fc3e4ee69613af48e83876e3",
+    "category": "\u77f3\u7a9f\u9020\u50cf",
+    "cd": 0.04776010930160757,
+    "seu": 33.482086181640625,
+    "n_visible": 10970,
+    "n_completed": 6553
+  },
+  {
+    "uid": "bac9ee64eb454a66a637ae0c20f56364",
+    "category": "\u77f3\u7a9f\u9020\u50cf",
+    "cd": 0.02262496419653444,
+    "seu": 49.983367919921875,
+    "n_visible": 9831,
+    "n_completed": 6553
+  },
+  {
+    "uid": "af4a61846cda41a08186012cdba38a10",
+    "category": "\u77f3\u7a9f\u9020\u50cf",
+    "cd": 0.03751101534099023,
+    "seu": 8.925751686096191,
+    "n_visible": 9830,
+    "n_completed": 6553
+  },
+  {
+    "uid": "7b97137d2ce3441cacfb76ec2fecfb78",
+    "category": "\u77f3\u7a9f\u9020\u50cf",
+    "cd": 0.037713990907782324,
+    "seu": 5.325228691101074,
+    "n_visible": 9831,
+    "n_completed": 6553
+  },
+  {
+    "uid": "6bac7ea154b24666bb1268eea48dee39",
+    "category": "\u58c1\u753b",
+    "cd": 0.05027971110952359,
+    "seu": 8.792054176330566,
+    "n_visible": 9831,
+    "n_completed": 6553
+  },
+  {
+    "uid": "256a1a5762f340128febbae6c9c357f0",
+    "category": "\u53e4\u5efa\u7b51\u6784\u4ef6",
+    "cd": 0.05720011513211125,
+    "seu": 4.613644123077393,
+    "n_visible": 9831,
+    "n_completed": 6553
+  },
+  {
+    "uid": "72ce4ad24e9f402e8ec640e0cae02491",
+    "category": "\u9752\u94dc\u5668",
+    "cd": 0.03545008476814726,
+    "seu": 6.396346092224121,
+    "n_visible": 9831,
+    "n_completed": 6553
+  },
+  {
+    "uid": "4191218218354b949b8eba4a9737fd60",
+    "category": "\u9676\u74f7\u5668",
+    "cd": 0.037026364724574545,
+    "seu": 1.943934440612793,
+    "n_visible": 9831,
+    "n_completed": 6553
+  },
+  {
+    "uid": "a1fad496198c468f9674f148653f8336",
+    "category": "\u7389\u5668",
+    "cd": 0.02554924550944273,
+    "seu": 2.9378013610839844,
+    "n_visible": 9830,
+    "n_completed": 6553
+  },
+  {
+    "uid": "a564a11174be455bbce4698f7da92fdf",
+    "category": "\u9676\u74f7\u5668",
+    "cd": 0.04602897235587424,
+    "seu": 16.141809463500977,
+    "n_visible": 9830,
+    "n_completed": 6553
+  },
+  {
+    "uid": "366878b31b014e00ac598757a6499891",
+    "category": "\u9676\u74f7\u5668",
+    "cd": 0.02807348505484051,
+    "seu": 28.740493774414062,
+    "n_visible": 9831,
+    "n_completed": 6553
+  },
+  {
+    "uid": "1dc0fe17c77e40a9ac5a0c52462ecee5",
+    "category": "\u77f3\u7a9f\u9020\u50cf",
+    "cd": 0.037083200328353126,
+    "seu": 4.727757453918457,
+    "n_visible": 9831,
+    "n_completed": 6553
+  },
+  {
+    "uid": "4766bde228384fffaa4f4c73cb91cee7",
+    "category": "\u9676\u74f7\u5668",
+    "cd": 0.04985699346832925,
+    "seu": 31.442195892333984,
+    "n_visible": 10177,
+    "n_completed": 6553
+  },
+  {
+    "uid": "e38433b796ca4b6b9b9b7fb6c98e6a84",
+    "category": "\u53e4\u5efa\u7b51\u6784\u4ef6",
+    "cd": 0.06229636517197328,
+    "seu": 1.403183937072754,
+    "n_visible": 9830,
+    "n_completed": 6553
+  },
+  {
+    "uid": "54fcdbf538ab4891ab696e65fb26b212",
+    "category": "\u77f3\u7a9f\u9020\u50cf",
+    "cd": 0.03154336600682418,
+    "seu": 19.216083526611328,
+    "n_visible": 9830,
+    "n_completed": 6553
+  },
+  {
+    "uid": "70dea595c5164a34959582a19c44e8f8",
+    "category": "\u53e4\u5efa\u7b51\u6784\u4ef6",
+    "cd": 0.03123311883576128,
+    "seu": 2.9835357666015625,
+    "n_visible": 9830,
+    "n_completed": 6553
+  },
+  {
+    "uid": "033c946a91ee401db2d7d5391ba5b036",
+    "category": "\u9676\u74f7\u5668",
+    "cd": 0.056594951019513236,
+    "seu": 23.2106990814209,
+    "n_visible": 10698,
+    "n_completed": 6553
+  },
+  {
+    "uid": "49fc5dd4bdc34951b29fb43aaaa9f3b5",
+    "category": "\u58c1\u753b",
+    "cd": 0.04003084396335638,
+    "seu": 7.50212287902832,
+    "n_visible": 9831,
+    "n_completed": 6553
+  },
+  {
+    "uid": "607443bac00d40bb849fcabceb9c4452",
+    "category": "\u53e4\u5efa\u7b51\u6784\u4ef6",
+    "cd": 0.03885667859941286,
+    "seu": 23.28636932373047,
+    "n_visible": 9831,
+    "n_completed": 6553
+  },
+  {
+    "uid": "e65de5edf45b47b084b76b4a7b71c1d6",
+    "category": "\u7389\u5668",
+    "cd": 0.027472909094813053,
+    "seu": 41.39057922363281,
+    "n_visible": 9830,
+    "n_completed": 6553
+  },
+  {
+    "uid": "e94723cdb9bf4b6fb8a2887ac2907ba0",
+    "category": "\u77f3\u7a9f\u9020\u50cf",
+    "cd": 0.0246286063779789,
+    "seu": 3.0487709045410156,
+    "n_visible": 9830,
+    "n_completed": 6553
+  },
+  {
+    "uid": "2852ac8cf5a04333906a76f163fc0a43",
+    "category": "\u53e4\u5efa\u7b51\u6784\u4ef6",
+    "cd": 0.03084710103440013,
+    "seu": 3.330510139465332,
+    "n_visible": 9830,
+    "n_completed": 6553
+  },
+  {
+    "uid": "7cb4d3334b2646df933df23c00a87c39",
+    "category": "\u77f3\u7a9f\u9020\u50cf",
+    "cd": 0.03614186911110323,
+    "seu": 4.588062763214111,
+    "n_visible": 9830,
+    "n_completed": 6553
+  },
+  {
+    "uid": "0c37b3cdc485481281db217e4a581ec6",
+    "category": "\u58c1\u753b",
+    "cd": 0.03866587101642524,
+    "seu": 4.550698280334473,
+    "n_visible": 9830,
+    "n_completed": 6553
+  },
+  {
+    "uid": "3d7f983ea6724c478ba0d72b545641e4",
+    "category": "\u7389\u5668",
+    "cd": 0.033958550261316015,
+    "seu": 76.3533935546875,
+    "n_visible": 9830,
+    "n_completed": 6553
+  },
+  {
+    "uid": "40c81b7afcc344648c599488c587e4a4",
+    "category": "\u9676\u74f7\u5668",
+    "cd": 0.06523284643970359,
+    "seu": 30.582469940185547,
+    "n_visible": 10099,
+    "n_completed": 6553
+  },
+  {
+    "uid": "b5ee83754ffc4f9a9204f3c72610cd60",
+    "category": "\u9752\u94dc\u5668",
+    "cd": 0.04231038570264427,
+    "seu": 9.941062927246094,
+    "n_visible": 9831,
+    "n_completed": 6553
+  },
+  {
+    "uid": "f9c0755c8c9448f3a643f0e452c6a996",
+    "category": "\u77f3\u7a9f\u9020\u50cf",
+    "cd": 0.046404411312604005,
+    "seu": 2.4445724487304688,
+    "n_visible": 9830,
+    "n_completed": 6553
+  },
+  {
+    "uid": "311175c1155c439cacaa79afbb69d540",
+    "category": "\u58c1\u753b",
+    "cd": 0.05220600156893325,
+    "seu": 11.945038795471191,
+    "n_visible": 9830,
+    "n_completed": 6553
+  },
+  {
+    "uid": "202828523d24472b9a309ac3bbed9a17",
+    "category": "\u9752\u94dc\u5668",
+    "cd": 0.051693525800448024,
+    "seu": 24.553524017333984,
+    "n_visible": 9830,
+    "n_completed": 6553
+  },
+  {
+    "uid": "b4e5f0e6367e442c995eb1e241e61f74",
+    "category": "\u9676\u74f7\u5668",
+    "cd": 0.0445600873022823,
+    "seu": 27.599388122558594,
+    "n_visible": 9831,
+    "n_completed": 6553
+  }
+]
